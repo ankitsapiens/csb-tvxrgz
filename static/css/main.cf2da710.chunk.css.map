@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,yBACF,CAEA,MACE,2BAA6B,CAC7B,UAAW,CACX,WACF,CAEA,MACE,yBACF","file":"main.cf2da710.chunk.css","sourcesContent":["body {\n  overflow-y: auto !important;\n}\n\n.jss6 {\n  overflow-y: scroll !important;\n  width: 100%;\n  height: 100%;\n}\n\n.jss1 {\n  overflow-y: auto !important;\n}\n"]}
