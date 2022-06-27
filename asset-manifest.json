@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://ankitsapiens.github.io/csb-tvxrgz/static/css/main.cf2da710.chunk.css",
-    "main.js": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/main.aa223d1c.chunk.js",
-    "main.js.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/main.aa223d1c.chunk.js.map",
+    "main.js": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/main.2a1ac409.chunk.js",
+    "main.js.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/main.2a1ac409.chunk.js.map",
     "runtime-main.js": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/runtime-main.8c572f18.js",
     "runtime-main.js.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/runtime-main.8c572f18.js.map",
-    "static/js/2.e45952aa.chunk.js": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.e45952aa.chunk.js",
-    "static/js/2.e45952aa.chunk.js.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.e45952aa.chunk.js.map",
+    "static/js/2.73610c48.chunk.js": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.73610c48.chunk.js",
+    "static/js/2.73610c48.chunk.js.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.73610c48.chunk.js.map",
     "index.html": "https://ankitsapiens.github.io/csb-tvxrgz/index.html",
     "static/css/main.cf2da710.chunk.css.map": "https://ankitsapiens.github.io/csb-tvxrgz/static/css/main.cf2da710.chunk.css.map",
-    "static/js/2.e45952aa.chunk.js.LICENSE.txt": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.e45952aa.chunk.js.LICENSE.txt"
+    "static/js/2.73610c48.chunk.js.LICENSE.txt": "https://ankitsapiens.github.io/csb-tvxrgz/static/js/2.73610c48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8c572f18.js",
-    "static/js/2.e45952aa.chunk.js",
+    "static/js/2.73610c48.chunk.js",
     "static/css/main.cf2da710.chunk.css",
-    "static/js/main.aa223d1c.chunk.js"
+    "static/js/main.2a1ac409.chunk.js"
   ]
 }
